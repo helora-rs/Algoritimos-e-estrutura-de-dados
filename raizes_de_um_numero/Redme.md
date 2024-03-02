@@ -3,12 +3,12 @@
 Pergunte três valores ao usuário, que correspondem às horas, minutos e segundos do horário atual. Calcule quantos segundos se passaram desde 00:00 horas.
 
 ´´´
-//criação da classe tempo_em_segundos no dia 01/03/2024
+/*criação da classe tempo_em_segundos no dia 01/03/2024*/
 import java.util.Scanner;
 class tempo_em_segundos{
     @SuppressWarnings("resource")
     public static void main(String[] args) {
-        //declaração de variaveis
+        /*declaração de variaveis*/
         int horas;
         int minutos;
         int segundos;
